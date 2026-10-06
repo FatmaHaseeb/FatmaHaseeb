@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatma Haseeb
-- 👀 I’m interested in MIS & Data Analytics with POWER BI , TABLEAU AND PYTHON Development and CMS & .NET Framework with Full Stack Web Development & UIUX Design.
+- 👀 I’m interested in MIS & Data Analytics with POWER BI , TABLEAU AND PYTHON Development and CMS & .NET Framework with PHP and MERN STACK Web Development & UIUX Design.
 - 🌱 I’m currently learning AZURE & AWS CLOUD COMPUTING, CCNA with LINUX(RHEL-7 & 9) OS and UI/UX Design.
 - 🌱 I'm expert in ORACLE FUSION CLOUD HCM(HRMS) and preparing for Global Certification exam.
 - 🌱 I am expert in Document Controller Management with Oracle Aconex.
